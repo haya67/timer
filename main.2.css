@@ -1,0 +1,10 @@
+.cover{
+    padding: 10px;
+    background-color: gray;
+    margin-right: 7px;
+    border-radius: 6px;
+}
+
+.time{
+    font-size: 45px;
+}
